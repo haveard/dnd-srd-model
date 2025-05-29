@@ -1,0 +1,17 @@
+transformers
+datasets
+peft
+accelerate
+bitsandbytes
+fastapi
+uvicorn
+sacrebleu
+rouge-score
+streamlit
+openai
+torch
+tqdm
+pandas
+numpy
+markdown
+plotly

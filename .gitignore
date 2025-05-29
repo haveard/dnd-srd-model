@@ -128,3 +128,6 @@ dmypy.json
 # macOS
 .DS_Store
 *.db
+
+models/*
+data/dnd_srd_qa.jsonl

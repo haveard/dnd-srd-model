@@ -131,3 +131,5 @@ dmypy.json
 
 models/*
 data/dnd_srd_qa.jsonl
+.github/copilot-instructions.md
+.github/instructions/copilot.instructions.md

@@ -84,18 +84,8 @@ dnd_srd_model/
 │   ├── data/                     # Training datasets
 │   ├── models/                   # Trained LoRA adapters
 │   └── eval/                     # Evaluation reports
-├── 🗂️ Archive
-│   └── scripts_archive/          # Legacy development scripts (organized)
-│       ├── training/             # Original training experiments
-│       ├── comparison/           # Model comparison approaches
-│       ├── demos/                # Various demonstration scripts
-│       ├── api/                  # API server iterations
-│       ├── testing/              # Quick tests and experiments
-│       └── utilities/            # Data prep and utility scripts
 └── 📚 Documentation
     ├── README.md                 # This file
-    ├── FINAL_PROJECT_REPORT.md   # Detailed results
-    └── PROJECT_COMPLETE.md       # Full documentation
 ```
 
 ## 🎮 Usage Examples
@@ -302,11 +292,9 @@ This is the **refactored, clean version** of the project. The original developme
 - [D&D 5e System Reference Document](https://dnd.wizards.com/resources/systems-reference-document)
 - [PEFT: Parameter-Efficient Fine-Tuning](https://github.com/huggingface/peft)
 - [Transformers Library](https://huggingface.co/docs/transformers/)
+- [D&D 5e Data Source](https://github.com/5e-bits/5e-database)
 
 ## 📄 License
 
 This project is for educational and research purposes. D&D content is used under the Open Gaming License.
 
----
-
-**🎲 Ready to inject domain knowledge into your language models? Start with the Quick Start guide above!**

@@ -287,7 +287,7 @@ This is the **refactored, clean version** of the project. The original developme
 ## 📚 References
 
 - [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)
-- [D&D 5e System Reference Document](https://dnd.wizards.com/resources/systems-reference-document)
+- [D&D 5e System Reference Document](https://www.dndbeyond.com/srd)
 - [PEFT: Parameter-Efficient Fine-Tuning](https://github.com/huggingface/peft)
 - [Transformers Library](https://huggingface.co/docs/transformers/)
 - [D&D 5e Data Source](https://github.com/5e-bits/5e-database)

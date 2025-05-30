@@ -283,8 +283,6 @@ This is the **refactored, clean version** of the project. The original developme
 - [ ] Multi-domain knowledge injection
 - [ ] Larger model support (7B+ parameters)
 - [ ] Advanced evaluation metrics
-- [ ] Web interface for model comparison
-- [ ] Docker deployment
 
 ## 📚 References
 

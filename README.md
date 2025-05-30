@@ -24,8 +24,8 @@ This project showcases how LoRA fine-tuning can inject domain-specific knowledge
 
 ```bash
 # Clone the repository
-git clone <repository-url>
-cd dnd_srd_model
+git clone https://github.com/haveard/dnd-srd-model.git
+cd dnd-srd-model
 
 # Install dependencies
 pip install -r requirements.txt
@@ -68,7 +68,7 @@ python api_server.py
 ## 📁 Project Structure
 
 ```
-dnd_srd_model/
+dnd-srd-model/
 ├── 🧠 Core Library
 │   └── dnd_lora_core.py          # Consolidated functionality
 ├── 🛠️ Main Scripts
